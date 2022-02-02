@@ -1,0 +1,6 @@
+#Requirements
+required python packages
+
+-requests
+-bs4
+-colorama
