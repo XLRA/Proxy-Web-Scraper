@@ -1,4 +1,4 @@
-# Proxy-Scraper
+# Proxy-Web-Scraper
 Web Scraper that collects proxies from multiple free proxy websites and outputs them into a text file in the location of the program.
 
 # Created by XLRA 
