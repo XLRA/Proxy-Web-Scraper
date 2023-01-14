@@ -15,3 +15,6 @@ Your antivirus will try to stop the creation of the text file with the proxies b
 # PROJECT LICENSE
 [https://github.com/XLRA/Proxy-Scraper/blob/main/LICENSE]
 
+# Language
+Created in Python <br>
+Compiled using auto-py-to-exe
